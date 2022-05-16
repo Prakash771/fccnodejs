@@ -14,6 +14,6 @@
   "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
   "version": "1.0.0",
   "author": "Prakash Arora",
-  "license": "ISC"
+  "license": "ISC",
   "keywords": [ "descriptive", "related", "words" , "freecodecamp"]
 }
